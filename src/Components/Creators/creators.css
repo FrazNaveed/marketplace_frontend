@@ -1,0 +1,29 @@
+
+
+.populateDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+.creatorCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.creatorCards img{
+    height: 200px;
+    width: 200px;
+}
+
+.creatorCards .creatorInfo{
+    margin-right: auto;
+}
+
+.heading{
+    margin-left: 150px;
+    margin-top: 40px;
+  }
